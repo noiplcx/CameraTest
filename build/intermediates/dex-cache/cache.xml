@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/yoline/Android/CameraTest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c9508dfa9a4e2d6f72dd6c809e2b79d13c0b3c59">
+        <dex dex="/home/yoline/Android/CameraTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cd345881891ac97e0ed054a5598142aef7e2560f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yoline/Android/CameraTest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/yoline/Android/CameraTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_484761ea0196450a7ce09cf78657f51a52c66e45/classes.dex" />
+    </item>
+
+</items>
